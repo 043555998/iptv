@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1,0.ARTA NEWS
-http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+#http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u
+https://skipcarney.com/wp-content/uploads/2015/10/problem-solution2.jpg
 #EXTINF:-1,0.Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1,0.Albania UK
