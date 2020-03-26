@@ -50,6 +50,7 @@ http://84.22.33.254/unicast.turbo/video.m3u8
 #EXTINF:0,al: OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:0,al: DASMA
+http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
 http://91.187.117.230:8080
 #EXTINF:-1,TringAction
 http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
