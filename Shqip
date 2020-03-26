@@ -1,18 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,Film Autor
-http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Film%20Aksion.png" ,Film Aksion
-http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Film%20Thriller.png" ,Film Thriller
-http://84.22.33.210/thriller.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Stinet-logo.png" ,Film Stinët
-http://84.22.33.210/stinet.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Film%20Nje%20HD.png" ,Film Nje
-http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png" ,Film Komedi
-http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Film%20Drame.png" ,Film Drame
-http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1,0.ARTA NEWS
 http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1,0.Alb'swiss TV
