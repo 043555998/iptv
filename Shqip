@@ -16,7 +16,7 @@ http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
 http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png",TV DUKAGJINI
 http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV KLAN
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",KLAN HD
 http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png",KLAN KOSOVA
 http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
@@ -45,14 +45,14 @@ http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1,0.Zico
 http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
-#EXTINF:-1,0.MTV Kosova
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/MTV%20Kosova.png",MTV Kosova
 http://84.22.33.254/unicast.mtvkosova/index.m3u8
 #EXTINF:-1,0.Opoja,
 http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TURBO CHANNEL
 http://84.22.33.254/unicast.turbo/video.m3u8
-#EXTINF:0,al: OPOJA
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Opoja.png",TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png",TV Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
