@@ -121,8 +121,7 @@ http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
 http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ShowTv
 http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Autor
-http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png" group-title="ALBANIA",TV Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 #EXTINF:-1,MTVEVROPE
 http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
