@@ -19,7 +19,7 @@ http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T7
 http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,0.RTV21 HD
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png",RTV21 HD
 http://ott.artmott.com/Rtv21/index.m3u8
 #EXTINF:-1,KTV
 http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
@@ -125,6 +125,4 @@ http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 #EXTINF:-1,MTVEVROPE
 http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
-
-http://www.albepg.com/epg/guide.xml
 
