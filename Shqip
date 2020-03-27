@@ -1,9 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1,0.ARTA NEWS
 http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film A1
-http://84.22.33.210/autor.m3u8
-http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 #EXTINF:-1,0.Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1,0.Albania UK
