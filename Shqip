@@ -52,18 +52,18 @@ http://84.22.33.254/unicast.turbo/video.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png",TV Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
-#EXTINF:0,al: DASMA
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Dasma%20TV.png", Dasma TV
 #http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
 http://91.187.117.230:8080
-#EXTINF:-1,ArtKino1
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png", Art Kino 1
 http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtKino2
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%202.png", Art Kino 2
 http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtKino3
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%203.png", Art Kino 3
 http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtDoku1
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png", Art Doku 1
 http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ArtDoku2
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png", Art Doku 2
 http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringAction
 http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
