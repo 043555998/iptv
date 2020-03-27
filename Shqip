@@ -24,31 +24,27 @@ http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
 http://84.22.33.214/TVKlanPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",Alsat-M
 http://ott.artmott.com/AlsatM/tracks-v1a1/mono.m3u8
-#EXTINF:-1,EraTV
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",ERA TV
 http://ott.artmott.com/EraTV/index.m3u8
 #EXTINF:-1,VIZIONPLUS
 http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
-#EXTINF:-1, RROKUM TV
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Rrokum%20TV.png", Rrokum TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:0, EUROAL
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroAL.png", EuroAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:-1,TV ILIRIDA
 rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
-#EXTINF:-1,0.BBF
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/BBF.png", BBF
 #http://84.22.33.254/unicast.bbf/index.m3u8
 http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,0.Euro Al
-http://5.135.92.131:1935/live/euroAl/playlist.m3u8
-#EXTINF:-1,0.Alb'swiss TV
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Muzik.png", Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1,0.Zico
 http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/MTV%20Kosova.png",MTV Kosova
 http://84.22.33.254/unicast.mtvkosova/index.m3u8
-#EXTINF:-1,0.Opoja,
-http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TURBO CHANNEL
 http://84.22.33.254/unicast.turbo/video.m3u8
