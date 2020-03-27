@@ -38,7 +38,7 @@ http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/BBF.png", BBF
 #http://84.22.33.254/unicast.bbf/index.m3u8
-https://cdn.freebiesupply.com/logos/large/2x/turbo-1-logo-png-transparent.png
+http://cdn.freebiesupply.com/logos/large/2x/turbo-1-logo-png-transparent.png
 http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Muzik.png", Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
