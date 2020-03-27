@@ -125,5 +125,5 @@ http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
 http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Film Autor
 #http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
-http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
-http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
+#http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
+#http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
