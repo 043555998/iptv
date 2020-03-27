@@ -14,13 +14,13 @@ http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/T7.png",T7
 http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DUKAGJINI
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png",TV DUKAGJINI
 http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV KLAN
 http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KLANKOSOVA
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png",KLAN KOSOVA
 http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV Klan Plus
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",KLAN PLUS
 http://84.22.33.214/TVKlanPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",Alsat-M
 http://ott.artmott.com/AlsatM/tracks-v1a1/mono.m3u8
