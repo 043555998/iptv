@@ -38,7 +38,8 @@ http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/BBF.png", BBF
 #http://84.22.33.254/unicast.bbf/index.m3u8
-http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
+https://cdn.freebiesupply.com/logos/large/2x/turbo-1-logo-png-transparent.png
+http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Muzik.png", Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Zico%20TV.png", Zico TV
@@ -48,7 +49,6 @@ http://84.22.33.254/unicast.mtvkosova/index.m3u8
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/turbo-1-logo-png-transparent.png",TURBO CHANNEL
 http://84.22.33.254/unicast.turbo/video.m3u8
-https://cdn.freebiesupply.com/logos/large/2x/turbo-1-logo-png-transparent.png
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Opoja.png",TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png",TV Boin
