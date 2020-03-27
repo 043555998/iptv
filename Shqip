@@ -5,7 +5,7 @@ http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Rtv21/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/KTV%20HD.png",KTV HD
 http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTK 1
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png", RTK 1
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w228779816.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTK%203.png", RTK 3
