@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1,0.ARTA NEWS
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 #EXTINF:-1,0.Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1,0.Albania UK
