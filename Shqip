@@ -1,5 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1,0.ARTA NEWS
+https://tv.oranews.tv/live/oranews/index.m3u8
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,0.Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
@@ -22,6 +23,7 @@ http://ott.artmott.com/Rtv21/index.m3u8
 #EXTINF:-1,KTV
 http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTK 1
+http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w228779816.m3u8
 #EXTINF:-1,RTK 3
 http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
