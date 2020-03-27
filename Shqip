@@ -1,16 +1,13 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,0.ARTA NEWS
-https://tv.oranews.tv/live/oranews/index.m3u8
-http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film A1
-http://84.22.33.210/autor.m3u8
-http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1,0.Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1,0.Albania UK
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1,0.BBF
-http://84.22.33.254/unicast.bbf/index.m3u8
+#http://84.22.33.254/unicast.bbf/index.m3u8
+http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,0.Euro Al
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 #EXTINF:-1,0.Zico
@@ -124,6 +121,7 @@ http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
 http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ShowTv
 http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png",TV Boin
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 #EXTINF:-1,MTVEVROPE
 http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
-
