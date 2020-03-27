@@ -8,9 +8,9 @@ http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTK 1
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w228779816.m3u8
-#EXTINF:-1,RTK 3
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTK%203.png", RTK 3
 http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTK 4
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTK%204.png", RTK 4
 http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/T7.png",T7
 http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
