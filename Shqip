@@ -125,6 +125,8 @@ http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
 http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ShowTv
 http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,X music
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/144771.ts
 #EXTINF:-1,MTVEVROPE
 http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
 
