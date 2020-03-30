@@ -125,6 +125,8 @@ http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
 http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ShowTv
 http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AL:KINO PREMIER 1 4K
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/144693.ts
 #EXTINF:-1,A-MOL TV
 http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/144625.ts
 #EXTINF:-1,X music
