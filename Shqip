@@ -28,12 +28,12 @@ http://ott.artmott.com/AlsatM/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/EraTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/2/27/Logo_ok.png", VIZION PLUS
 http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
-#EXTINF:0, KOHA TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Syri%20Vision.png", SYRI VIZION
 http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Rrokum%20TV.png", Rrokum TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0, ZJARR TV
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroAL.png", EuroAL
