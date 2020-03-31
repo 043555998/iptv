@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Arta%20HD.png",Arta HD
-http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+http://84.22.33.254/unicast.artanews/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png",RTV21 HD
 http://ott.artmott.com/Rtv21/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/KTV%20HD.png",KTV HD
@@ -34,6 +34,10 @@ http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:0, ZJARR TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:0, Tv Opinion
+http://84.22.33.254/unicast.tvopinion/index.m3u8
+#EXTINF:0, Living HD
+http://84.22.33.254/unicast.tringlivinghd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroAL.png", EuroAL
