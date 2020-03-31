@@ -40,12 +40,12 @@ http://84.22.33.254/unicast.tvopinion/index.m3u8
 http://84.22.33.254/unicast.tringlivinghd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroAL.png", EuroAL
-http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:0, PRIME HD
 http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
 #EXTINF:0, KORCA PLUS TV
 http://212.2.225.30:1935/live/albplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroAL.png", EuroAL
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:-1,TV ILIRIDA
 rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/BBF.png", BBF
@@ -141,12 +141,6 @@ http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
 http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ShowTv
 http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AL:KINO PREMIER 1 4K
-http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/144693.ts
-#EXTINF:-1,A-MOL TV
-http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/144625.ts
-#EXTINF:-1,X music
-http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/144771.ts
 #EXTINF:-1,MTVEVROPE
 http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
 
