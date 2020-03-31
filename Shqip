@@ -42,6 +42,8 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png",TV Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:-1,tringinternational
+http://ott.artmott.com/tringinternational/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroAL.png", EuroAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Muzik.png", Alb'swiss TV
@@ -103,8 +105,6 @@ http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringPlanet
 http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tringinternational
-http://ott.artmott.com/tringinternational/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringKids
 http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringTring
