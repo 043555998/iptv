@@ -65,7 +65,7 @@ rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/BBF.png", BBF
 #http://84.22.33.254/unicast.bbf/index.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1, CLICK TV
+#EXTINF:-1, SPIN TV
 http://84.22.33.254/unicast.click/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Dasma%20TV.png", Dasma TV
 #http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
