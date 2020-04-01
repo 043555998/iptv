@@ -51,7 +51,7 @@ http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/MTV%20Kosova.png",MTV Kosova
 http://84.22.33.254/unicast.mtvkosova/index.m3u8
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/turbo-1-logo-png-transparent.png",TURBO CHANNEL
+#EXTINF:-1 tvg-logo="http://cdn.freebiesupply.com/logos/large/2x/turbo-1-logo-png-transparent.png", TURBO CHANNEL
 http://84.22.33.254/unicast.turbo/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Opoja.png",TV Opoja
 https://54627d4fc5996.streamlock.net/tvopoja/tvopoja/chunklist_w1241215125.m3u8
