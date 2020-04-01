@@ -105,13 +105,13 @@ http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringPlanet
 http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringKids
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png", TringKids
 http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringTring
 http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TipTV
 http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,7 HD
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png",T HD
 http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SkyStar
 http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
