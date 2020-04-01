@@ -69,9 +69,9 @@ http://84.22.33.254/unicast.click/video.m3u8
 #http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
 #http://91.187.117.230:8080
 http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF:0, FILM NJE
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png", FILM NJE
 http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0, FILM DY
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png", FILM DY
 http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png", Art Kino 1
 http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
@@ -83,11 +83,11 @@ http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png", Art Doku 2
 http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringAction
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png", TringAction
 http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringFantasy
 http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TringLife
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png", TringLife
 http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TringSuper
 http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
