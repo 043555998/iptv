@@ -62,6 +62,13 @@ http://84.22.33.254/unicast.click/video.m3u8
 http://84.22.33.254/unicast.folkplus/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Zico%20TV.png", ZIKO TV
 http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/BBF.png", BBF
+#http://84.22.33.254/unicast.bbf/index.m3u8
+http://84.22.33.254/unicast.bbf/video.m3u8
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+http://163.172.25.87:8081/shikoshqip/KLANTV/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/first%20CHANNEL.png", FIRST CHANEL
+http://37.26.66.13:24621/live/besst/4455/13.ts
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/MTV%20Kosova.png",MTV Kosova
 http://84.22.33.254/unicast.mtvkosova/index.m3u8
 http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
@@ -71,13 +78,6 @@ http://84.22.33.254/unicast.turbo/video.m3u8
 http://84.22.33.254/unicast.ontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV ILIRIDA
 rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
-#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/BBF.png", BBF
-#http://84.22.33.254/unicast.bbf/index.m3u8
-http://84.22.33.254/unicast.bbf/video.m3u8
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-http://163.172.25.87:8081/shikoshqip/KLANTV/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/first%20CHANNEL.png", FIRST CHANEL
-http://37.26.66.13:24621/live/besst/4455/13.ts
 #EXTINF:-1, KRAL TV Music
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1, KRAL POP Music
