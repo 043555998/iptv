@@ -80,6 +80,7 @@ http://84.22.33.254/unicast.ontv/tracks-v1a1/mono.m3u8
 rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
 #EXTINF:-1, KRAL TV (MUSIC)
 http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1, KRAL POP (MUSIC)
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1, ISTOGU TV
