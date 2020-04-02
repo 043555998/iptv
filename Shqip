@@ -18,7 +18,8 @@ http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png",TV DUKAGJINI
 http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",KLAN HD
-http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
+#http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
+http://163.172.25.87:8081/shikoshqip/KLANTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png",KLAN KOSOVA
 http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",KLAN PLUS
