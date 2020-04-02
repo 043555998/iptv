@@ -56,6 +56,7 @@ http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/turbo-1-logo-png-transparent.png", TURBO CHANNEL
 http://84.22.33.254/unicast.turbo/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Opoja.png",TV Opoja
+#http://84.22.33.254/unicast.opoja/tracks-v1a1/mono.m3u8
 https://54627d4fc5996.streamlock.net/tvopoja/tvopoja/chunklist_w1241215125.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png", Folk Plus
