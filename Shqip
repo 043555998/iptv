@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Arta%20HD.png",Arta HD
 http://84.22.33.254/unicast.artanews/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png",RTV21 HD
-http://213.163.115.221:8020/play/a0fd
-http://ott.artmott.com/Rtv21/index.m3u
+#http://213.163.115.221:8020/play/a0fd
+http://ott.artmott.com/Rtv21/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/KTV%20HD.png",KTV HD
 http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png", RTK 1
@@ -72,7 +72,7 @@ http://84.22.33.254/unicast.click/video.m3u8
 #http://84.22.33.254/unicast.dasmatv/index.m3u8
 #http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
 #http://91.187.117.230:8080
-http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
+#http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png", FILM NJE
 http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png", FILM DY
