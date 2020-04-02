@@ -49,7 +49,7 @@ http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Muzik.png", Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
-#EXTINF:-1, 21 PLUS MUSIC 
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20Plus.png", 21 PLUS MUSIC 
 http://84.22.33.254/unicast.21plushd/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Zico%20TV.png", ZIKO TV
 http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
@@ -62,7 +62,7 @@ http://84.22.33.254/unicast.turbo/video.m3u8
 http://84.22.33.254/unicast.opoja/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png", Folk Plus
 http://84.22.33.254/unicast.folkplus/video.m3u8
-#EXTINF:-1, ON TV
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/On-TV.png", ON-TV
 http://84.22.33.254/unicast.ontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV ILIRIDA
 rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
