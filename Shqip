@@ -72,6 +72,8 @@ http://84.22.33.254/unicast.click/video.m3u8
 #http://84.22.33.254/unicast.dasmatv/index.m3u8
 http://84.22.33.254/unicast.dasmatv/tracks-v1a1/mono.m3u8
 http://163.172.25.87:8081/shikoshqip/KLANTV/playlist.m3u8
+#EXTINF:0, FIRST CHANEL
+http://37.26.66.13:24621/live/besst/4455/13.ts
 #EXTINF:-1, ISTOGU TV
 http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png", FILM NJE
