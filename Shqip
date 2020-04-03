@@ -79,7 +79,7 @@ http://84.22.33.254/unicast.ontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV ILIRIDA
 rtmps://54627d4fc5996.streamlock.net:443/rtvilirida/rtvilirida
 #EXTINF:-1, KRAL TV (MUSIC)
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585898450/ei/co-GXoSEJv6yxN8P3aKMwAU/ip/91.187.116.223/id/88tf0H1ycDU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhAIYfXGK95zeG-AeofKjl7iKhOaw89l5CUXWGzFaW1HzOAiEA9Bkz2ZvDliTobHPPT4RlIs7oUISqqsGsXDwzZ_5fj5k%3D/file/index.m3u8
 #EXTINF:-1, KRAL POP (MUSIC)
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1, ISTOGU TV
