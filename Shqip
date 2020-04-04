@@ -92,12 +92,16 @@ https://ch.iptvmate.net/893146917459f1fc9200739f5e88b5c5.m3u8
 http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JollyHD
 http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png",T HD
+http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkyStar
+http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/FOX.png", FOX MOVIES
+http://37.26.66.13:24621/live/besst/4455/111.ts
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png", FILM NJE
 http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png", FILM DY
 http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/FOX.png", FOX MOVIES
-http://37.26.66.13:24621/live/besst/4455/111.ts
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png", Art Kino 1
 http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%202.png", Art Kino 2
@@ -134,10 +138,6 @@ http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TipTV
 http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png",T HD
-http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SkyStar
-http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SKYACTION
 http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SKYCOMEDY
