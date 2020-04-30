@@ -18,8 +18,8 @@ http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png",TV DUKAGJINI
 http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",KLAN HD
-#http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
-http://163.172.25.87:8081/shikoshqip/KLANTV/playlist.m3u8
+http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
+#http://163.172.25.87:8081/shikoshqip/KLANTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png",KLAN KOSOVA
 http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",KLAN PLUS
@@ -99,9 +99,9 @@ http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/FOX.png", FOX MOVIES
 http://37.26.66.13:24621/live/besst/4455/111.ts
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png", FILM NJE
-http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
+#http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png", FILM DY
-http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
+#http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png", Art Kino 1
 http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%202.png", Art Kino 2
