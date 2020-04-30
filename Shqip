@@ -177,3 +177,5 @@ http://84.22.33.218:80/ArenaSport2OTT/tracks-v1a1/mono.m3u8
 http://84.22.33.218:80/ArenaSport3OTT/index.m3u8
 #EXTINF:-1,ArenaSport 4
 http://84.22.33.218:80/ArenaSport4OTT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ArenaSport 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
