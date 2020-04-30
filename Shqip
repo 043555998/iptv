@@ -61,7 +61,7 @@ http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20Plus.png", 21 PLUS (MUSIC)
 http://84.22.33.254/unicast.21plushd/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Click%20TV.png", SPIN TV (MUSIC)
-http://84.22.33.254/unicast.click/video.m3u8
+#http://84.22.33.254/unicast.click/video.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png", Folk Plus (MUSIC)
 http://84.22.33.254/unicast.folkplus/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Zico%20TV.png", ZIKO TV (MUSIC)
