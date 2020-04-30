@@ -163,3 +163,17 @@ http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #EXTINF:-1,MTVEVROPE
 http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ArtSport 1
+http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ArtSport 2
+http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ArtSport 3
+http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ArenaSport 1
+http://ott.artmott.com:90/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ArenaSport 2
+http://84.22.33.218:80/ArenaSport2OTT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ArenaSport 3
+http://84.22.33.218:80/ArenaSport3OTT/index.m3u8
+#EXTINF:-1,ArenaSport 4
+http://84.22.33.218:80/ArenaSport4OTT/tracks-v1a1/mono.m3u8
